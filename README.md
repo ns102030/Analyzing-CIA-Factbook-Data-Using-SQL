@@ -21,7 +21,8 @@ Which countries will add the most people to their populations next year?
 [factbook.db](https://github.com/ns102030/Analyzing-CIA-Factbook-Data-Using-SQL/blob/main/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/factbook.db)
 
 <img src="Images/Image1.png">
-* Loading in SQL database
+
+    * Loading in SQL database
 
 <img src="Images/Image2.png">
 <img src="Images/Image3.png">

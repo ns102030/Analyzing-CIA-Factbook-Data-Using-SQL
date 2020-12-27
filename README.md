@@ -1,4 +1,4 @@
-# Analyzing-CIA-Factbook-Data-Using-SQL
+# Analyzing CIA Factbook Data Using SQL
 Repository for analysis of CIA Factbook Data.
 
 ### Using SQL queries to do a basic analysis of CIA data.
